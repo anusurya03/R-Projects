@@ -1,0 +1,15 @@
+kd<-read.csv("book1.csv")
+kd
+kd<-kd[,-1]
+summary(kd)
+data_norm<-function(x){
+  ((x-min(x))/(max(x)-min(x)))
+  }
+kd_norm<-as.data.frame(lapply(kd[,-3],data_norm))
+kd_train<-kd_norm[1:3,]
+kd_train
+kd_test<-kd_norm[4,]
+kd_test
+library(class)
+kd_pred<-knn(kd_train,kd_test,kd[1:3,2],k=1)
+kd_pred
