@@ -1,0 +1,18 @@
+load("~/.RData")
+install.packages("coin")
+install.packages("mass")
+TRUE
+yes
+install.packages("MASS")
+library(MASS)
+library(coin)
+installed.packages("coin")
+install.packages("rattle")
+checkCRAN("coin")
+check MASS
+detach("coin")
+detach(package.skeleton("coin"))
+detach(package:coin)
+coin?
+FALSE
+savehistory("~/rzeal/day1.history")
