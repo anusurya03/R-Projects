@@ -1,0 +1,124 @@
+Cortana is an intelligent personal assistant created by Microsoft for Windows 10, Windows 10 Mobile, Windows Phone 8.1,[7] Microsoft Band, Xbox One,[8][9] iOS, Android,[10] and Windows Mixed Reality.
+
+Cortana can set reminders, recognize natural voice without the requirement for keyboard input, and answer questions using information from the Bing search engine.
+
+Cortana is currently available in English, Portuguese, French, German, Italian, Spanish, Chinese, and Japanese language editions, depending on the software platform and region in which it is used.[11] Cortana mainly competes against assistants such as Apple's Siri, Google's Google Assistant, and Amazon's Alexa.
+
+Contents  [hide] 
+1	History
+1.1	Development
+1.2	Expansion to other platforms
+2	Cortana in other services
+3	Functionality
+3.1	Notebook
+3.2	Reminders
+3.3	Design
+3.4	Phone notification syncing
+3.5	Miscellaneous
+4	Integrations
+4.1	Skills
+5	Privacy concerns
+6	Regions and languages
+7	Technology
+8	Updating
+9	See also
+10	References
+11	External links
+History[edit]
+Cortana was demonstrated for the first time at the Microsoft BUILD Developer Conference (April 2–4, 2013) in San Francisco.[1] It has been launched as a key ingredient of Microsoft's planned "makeover" of the future operating systems for Windows Phone and Windows.[7]
+
+It is named after Cortana,[12] a synthetic intelligence character in Microsoft's Halo video game franchise originating in Bungie folklore,[13] with Jen Taylor, the character's voice actress, returning to voice the personal assistant's US-specific version.[14]
+
+Development[edit]
+The development of Cortana started in 2009 in the Microsoft Speech products team with general manager Zig Serafin and Chief Scientist Larry Heck. Heck and Serafin established the vision, mission, and long-range plan for Microsoft's digital-personal-assistant and they built a team with the expertise to create the initial prototypes for Cortana.[15] To develop the Cortana digital assistant, the team interviewed human personal assistants. These interviews inspired a number of unique features in Cortana, including the assistant's "notebook" feature. Originally Cortana was only meant to be a codename, but a petition on Windows Phone's UserVoice site that proved to be popular made the codename official.[16]
+
+Expansion to other platforms[edit]
+
+Cortana white interface on Windows 10 Mobile
+In January 2015, Microsoft announced the availability of Cortana for Windows 10 desktops and mobile devices as part of merging Windows Phone into the operating system at large.
+
+On May 26, 2015, Microsoft announced that Cortana would also be available on other mobile platforms. An Android release was set for July 2015, but an Android APK file containing Cortana was leaked ahead of its release. It was officially released, along with an iOS version, in December 2015.[17]
+
+During E3 2015, Microsoft announced that Cortana would come to the Xbox One as part of a universally designed Windows 10 update for the console.[18]
+
+Cortana in other services[edit]
+
+Cortana integrated in Microsoft Edge
+Microsoft has integrated Cortana into numerous products such as Microsoft Edge,[19] the browser bundled with Windows 10. Microsoft's Cortana assistant is deeply integrated into its Edge browser. Cortana can find opening-hours when on restaurant sites, show retail coupons for websites, or show weather information in the address bar. At the Worldwide Partners Conference 2015 Microsoft demonstrated Cortana integration with upcoming products such as GigJam.[20] Conversely, Microsoft announced in late April 2016 that it would block anything other than Bing and Edge from being used to complete Cortana searches, again raising questions of anticompetitive behavior by the company.[21]
+
+Microsoft's "Windows in the car" concept includes Cortana. The concept makes it possible for drivers to make restaurant reservations and see places before they go there.[22]
+
+At Microsoft Build 2016, Microsoft announced plans to integrate Cortana into Skype (Microsoft's instant messaging service) as a bot to allow users to order food, book trips, transcribe video messages and make calendar appointments through Cortana and in addition to other bots.[23] As of 2016, Cortana can underline certain words and phrases in Skype conversations that relate to contacts and corporations.[24] A writer from Engadget has criticised the Cortana integration in Skype for only responding to very specific keywords, feeling as if she was "chatting with a search engine" due to the impersonal way the bots replied to certain words such as "Hello" the Bing Music bot brought up Adele's song of that name.[25]
+
+Microsoft also announced at Microsoft Build 2016 that Cortana would be able to cloud-synchronise notifications between Windows 10 Mobile's and Windows 10's Action Center,[26][27] as well as notifications from Android devices.[28][29]
+
+On May 2017, Microsoft in collaboration with Harman Kardon announced Invoke, a voice-activated speaker featuring Cortana. The premium speaker has a cylindrical design and offers 360 degree sound, the ability to make and receive calls with Skype, and all of the other features currently available with Cortana.[30]
+
+Functionality[edit]
+Cortana can set reminders, recognize natural voice without the requirement for keyboard input, and answer questions using information from the Bing search engine (e.g., current weather and traffic conditions, sports scores, biographies).[31][32][33] Searches will only be made with Microsoft Bing search engine and all links will open with Microsoft Edge,[34] except when a screen reader such as Narrator is being used, where the links will open in Internet Explorer. Windows 8.1's universal Bing SmartSearch features are incorporated into Cortana, which replaces the previous Bing Search app which was activated when a user presses the "Search" button on their device.[35] Cortana includes a music recognition service.[36] Cortana can simulate rolling dice and flipping a coin.[37] 'Cortana's "Concert Watch" monitors Bing searches to determine which bands or musicians the user is interested in.[38] It integrates with the Microsoft Band watch band for Windows Phone devices if connected via Bluetooth,[39][40] it can make reminders and phone notifications.[41]
+
+Since the Lumia Denim mobile phone series, launched in October 2014, active listening was added to Cortana, enabling it to be invoked with the phrase: "Hey Cortana"; it can then be controlled as usual.[42] Some devices from the United Kingdom by O2 have received the Lumia Denim update without the feature but this was later clarified as a bug and Microsoft has since fixed it.[43]
+
+Cortana integrates with services such as Foursquare to provide restaurant and local attraction recommendations and LIFX to control smart light bulbs.[44][45][46]
+
+Notebook[edit]
+Cortana stores personal information such as interests, location data, reminders, and contacts in the "Notebook". It can draw upon and add to this data to learn a user's specific patterns and behaviors. Users can view and specify what information is collected to allow some control over privacy, said to be "a level of control that goes beyond comparable assistants".[47] Users can delete information from the "Notebook".[48]
+
+Reminders[edit]
+Cortana has a built in system of reminders which for example can be associated with a specific contact; it will then remind the user when in communication with that contact, possibly at a specific time or when the phone is in a specific location.[49] Originally these reminders were specific to the device Cortana was installed on, but since Windows 10 Microsoft synchronises reminders across devices.[50]
+
+Design[edit]
+Most versions of Cortana take the form of two nested, animated circles[51] which are animated to indicate activities such as searching or talking. The main color scheme includes a black or white background and shades of blue for the respective circles.[52]
+
+Phone notification syncing[edit]
+Cortana on Windows mobile and Android is capable of capturing device notifications and sending them to a Windows 10 device. This allows a computer user to view notifications from their phone in the Windows 10 Action Center. The feature was announced in early 2016 and released later in the year.[53]
+
+Miscellaneous[edit]
+Cortana has a "do-not-disturb" mode in which users can specify "quiet hours", as was available for Windows Phone 8.1 users.[54] Users can change the settings so that Cortana calls users by their names or nicknames.[48] It also has a library of "Easter Eggs", pre-determined remarks.[55][56]
+
+When asked for a prediction, Cortana correctly predicted the winners of the first 14 matches of the football 2014 FIFA World Cup knockout stage, including the semi-finals, before it incorrectly picked Brazil over the Netherlands in the third place play-off match; this streak topped Paul the Octopus who correctly predicted all 7 of Germany's 2010 FIFA World Cup matches as well as the Final.[57][58][59][60] Cortana can forecast results in various other sports such as the NBA, the NFL,[61] the Super Bowl,[62] the ICC Cricket World Cup[63] and various European football leagues. Cortana can solve mathematical equations, convert units of measurement, and determine the exchange rates between currencies including Bitcoin.[64]
+
+As of April 2015 Cortana was disabled for users aged under 13 years.[65]
+
+Integrations[edit]
+Cortana can integrate with third-party apps on Windows 10 or directly through the service. Starting in late 2016, Cortana integrated with Microsoft's Wunderlist service, allowing Cortana to add and act on reminders.[66]
+
+Skills[edit]
+At its Build 2017 conference, Microsoft announced that Cortana would get third-party skills capability, similar to that in Amazon Alexa.[67]
+
+Privacy concerns[edit]
+Cortana indexes and stores user information. It can be disabled; this will cause Windows search to search the Web as well as the local computer, but this can be turned off. Turning Cortana off does not in itself delete user data stored on Microsoft's servers, but it can be deleted by user action.[68] Microsoft has further been criticised for requests to Bing's website for a file called "threshold.appcache" which contains Cortana's information through searches made through the Start Menu even when Cortana is disabled on Windows 10.[69][70]
+
+Regions and languages[edit]
+
+The Chinese version of Cortana, Xiao Na
+The UK version of Cortana speaks with a British accent and uses British idioms, while the Chinese version, known as Xiao Na, speaks Mandarin Chinese and has an icon featuring a face and two eyes, which is not used in other regions.[71]
+
+As of 2016 the English version of Cortana on Windows devices is available to all users in the United States (American English), Canada (French/English), Australia, India, and the United Kingdom (British English). Other language versions of Cortana are available in China (Simplified Chinese), Japan (Japanese), France (French), Germany (German), Italy (Italian), Brazil (Portuguese), Mexico, and Spain (Spanish). Cortana for Android and iOS is also available in the same languages.[72] Even though Cortana listens generally to the hot word "Hey Cortana", certain languages use customized versions (e.g. "Hola Cortana" for Spanish).[73]
+
+The United Kingdom (English) localised version of Cortana is voiced by Ginnie Watson, an Anglo-French actress, singer/songwriter and voice-over artist.[74]
+
+This table identifies the localized version of Cortana currently available. Except where indicated, this applies to both Windows Mobile and Windows 10 versions of the assistant.
+
+Language[75]	Region[75]	Variant	Status[75]	Platforms
+English	United States United States	American English	Available	Windows, Android, iOS
+United Kingdom United Kingdom[76]	British English	Available	Windows, Android[77]
+Canada Canada[78]	Canadian English	Available	Windows
+Australia Australia	Australian English	Available	Windows, Android, iOS
+India India	Indian English	Available[79]	Windows
+German	Germany Germany[80]	Standard German	Available	Windows
+Italian	Italy Italy	Standard Italian	Available[81]	Windows
+Spanish	Spain Spain[82]	Castilian Spanish	Available	Windows
+Mexico Mexico	Mexican Spanish	Available	Windows
+French	France France	French of France	Available	Windows
+Canada Canada	Canadian French	Available	Windows
+Chinese	China China	Mandarin Chinese	Available	Windows, Android, iOS
+Portuguese	Brazil Brazil	Brazilian Portuguese	Available	Windows
+Japanese	Japan Japan	Standard Japanese	Available	Windows, IOS
+Russian	Russia Russia	Standard Russian	Not Available	Windows,[78] iOS[83]
+Technology[edit]
+The natural language processing capabilities of Cortana are derived from Tellme Networks (bought by Microsoft in 2007) and are coupled with a Semantic search database called Satori.[84]
+
+Updating[edit]
+Cortana updates are delivered independently of those to the main Windows Phone OS,[85] allowing Microsoft to provide new features at a faster pace.[86] Not all Cortana-related features can be updated in this manner as some features such as "Hey Cortana" require the Windows Phone update service and the Qualcomm Snapdragon SensorCore Technology.[87]
+

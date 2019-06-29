@@ -1,0 +1,78 @@
+Alexa is an intelligent personal assistant developed by Amazon, made popular by the Amazon Echo and the Amazon Echo Dot devices developed by Amazon Lab126. It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, and other real time information, such as news. Alexa can also control several smart devices using itself as a home automation system.[2] Most devices with Alexa allow users to activate the device using a wake-word (such as Echo); other devices (such as the Amazon app on iOS or Android) require the user to push a button to activate Alexa's listening mode. Currently, interaction and communication with Alexa is only available in English and German.
+
+Contents  [hide] 
+1	History
+2	App
+3	Functions
+3.1	Home automation
+3.2	Ordering
+3.3	Music
+3.4	Sports
+3.5	Messaging and Email
+4	Alexa Skills Kit
+5	Alexa Voice Service
+6	Amazon Lex
+7	Reception
+8	Supported Devices
+9	Alexa Prize
+10	Alexa Fund
+11	Alexa Conference
+12	The Alexa Alumni Society
+13	References
+14	External links
+History[edit]
+In November 2014, Amazon announced Alexa alongside Echo.[3] Alexa was inspired by the computer voice and conversational system on board the Starship Enterprise in science fiction TV series and movies, beginning with Star Trek: The Original Series and Star Trek: The Next Generation. The name Alexa was chosen due to the fact that it has a hard consonant with the X and therefore could be recognized with higher precision. The name is also claimed to be reminiscent of the Library of Alexandria.[4][5] In June 2015, Amazon announced Alexa Fund, a program that would invest in companies making voice control skills and technologies. The US$100 million in funds has invested in companies including Ecobee, Orange Chef, Scout Alarm, Garageio, Toymail, MARA, and Mojio.[6] In 2016 the Alexa Prize was announced to advance the technology.
+
+App[edit]
+A companion app is available from the Apple App Store, Google Play, and Amazon Appstore. The app can be used by owners of Alexa-enabled devices to install skills, control music, manage alarms, and view shopping lists. It also allows users to review the recognized text on the app screen and to send feedback to Amazon concerning whether the recognition was good or bad. A web interface is also available to set-up compatible devices (e.g., Amazon Echo, Amazon Dot, Amazon Echo Show).
+
+Functions[edit]
+Alexa offers weather reports provided by AccuWeather and news provided by TuneIn from a variety of sources including local radio stations, NPR, and ESPN.[7] Additionally, Alexa-supported devices stream music from the owner's Amazon Music accounts and have built-in support for Pandora and Spotify accounts.[8] Alexa can play music from streaming services such as Apple Music and Google Play Music from a phone or tablet. Alexa can manage voice-controlled alarms, timers, and shopping and to-do lists, and can access Wikipedia articles. Alexa devices will respond to questions about items in the user's Google Calendar. As of November 2016, the Alexa Appstore had over 5,000 functions ("skills") available for users to download,[9] up from 1,000 functions in June 2016.[10]
+
+Home automation[edit]
+In the home automation space, Alexa can interact with devices from Belkin Wemo, ecobee, IFTTT,[11] Insteon, LIFX, LightwaveRF,[12] Nest Thermostats, Philips Hue, SmartThings, Wink,[13][14] and Yonomi.[15] The Home Automation feature was launched on April 8, 2015.[16]
+
+Ordering[edit]
+Take-out food can be ordered using Alexa; as of May 2017 food ordering using Alexa is supported by Domino's Pizza, Grubhub, Pizza Hut, Seamless, and Wingstop.[17] Also, users of Alexa in the UK can order meals via Just Eat.[18] In early 2017, Starbucks announced a private beta for placing pick-up orders using Alexa.[19] In addition, users can order meals using Amazon Prime Now via Alexa in 20 major US cities.[20]
+
+Music[edit]
+Alexa supports a multitude of subscription-based and free streaming services on Amazon devices. These streaming services include: Prime Music, Amazon Music, Amazon Music Unlimited, TuneIn, iHeartRadio, Audible, Pandora, and Spotify Premium. However, some of these music services are not available on other Alexa-enabled products that are manufactured by companies external of its services. This unavailability also includes Amazon's own Fire TV devices or tablets.[21]
+
+Alexa is able to stream media and music directly. To do this, Alexa's device should be linked to the Amazon account, which enables access to one's Amazon Music library, in addition to any audiobooks available in one's Audible library. Amazon Prime members have an additional ability to access stations, playlists, and over two million songs free of charge. Amazon Music Unlimited subscribers also have access to a list of millions of songs.[22]
+
+Amazon Music for PC allows one to play personal music from Google Play, iTunes, and others on an Alexa device. This can be done by uploading one's collection to My Music on Amazon from a computer. Up to 250 songs can be uploaded free of charge. Once this is done, Alexa can play this music and control playback through voice command options.[23]
+
+Sports[edit]
+Alexa allows you to hear updates on your supported sports teams. A way to do this is by adding your sports team to the list created under Alexa's Sports Update app section. [24]
+
+You are able to hear updates on up to 15 supported teams, of which consist of the following:[25]
+
+MLS - Major League Soccer EPL - English Premier League NBA - National Basketball Association NCAA men’s basketball - National Collegiate Athletic Association UEFA Champions League - Union of European Football Association FA Cup - Football Association Challenge CupMLB - Major League Baseball NHL - National Hockey League NCAA FBS football - National Collegiate Athletic Association: Football Bowl Subdivision NFL - National Football League German Bundesliga 2nd Division WNBA - Women's National Basketball Association German Bundesliga 1st Division
+
+Messaging and Email[edit]
+Messages can be sent through multiple ways from Alexa's application. Alexa is able to deliver messages to a recipient's Alexa application, as well as to all of their Echo devices that are both supported and associated with their Amazon account. Alexa is able to send typed messages only from Alexa's app. If one sends a message from an associated Echo device, it will be sent as a voice message. Alexa cannot send attachments including videos and photos.[26]
+
+If there are multiple members within one's household, one's Alexa contacts are pooled across all of the devices that are registered to its associated account. However, within Alexa's app one is only able to start conversations with its Alexa contacts.[27] When accessed and supported by an Alexa app or Echo device, Alexa messaging is available to anyone in one's household. These messages can be heard by anyone with access in the household. This messaging feature does not yet contain a password protection or associated PIN. Anyone who has access to one's cell phone number is able to use this feature to contact them through their supported Alexa app or Echo device. The feature to block alerts for messages and calls is available temporarily by utilizing the Do Not Disturb feature.[28]
+
+Alexa Skills Kit[edit]
+Amazon allows developers to build and publish skills for Alexa using the Alexa Skills Kit. These skills are 3rd-party developed voice experiences that add to the capabilities of any Alexa-enabled device (such as the Echo). These skills are available for free download using the Alexa app. Skills are continuously being added to increase the capabilities available to the user. A "Smart Home Skill API" is available.[29] All of the code runs in the cloud – nothing is on any user device. A developer can follow tutorials to learn how to quickly build voice experiences for their new and existing applications.[30]
+
+Alexa Voice Service[edit]
+Amazon allows device manufacturers to integrate Alexa voice capabilities into their own connected products by using the Alexa Voice Service (AVS), a cloud-based service that provides APIs to interface with Alexa. Products built using AVS have access to Alexa's growing list of capabilities including all of the Alexa Skills. AVS provides cloud-based automatic speech recognition (ASR) and natural language understanding (NLU). There are no fees for companies looking to integrate Alexa into their products by using AVS.
+
+The voice of Amazon Alexa is generated by a long short-term memory artificial neural network.[31][32][33]
+
+Amazon Lex[edit]
+Main article: Amazon Lex
+On November 30, 2016 Amazon announced that they will make the speech recognition and natural language processing technology behind Alexa available for developers under the name of Amazon Lex. This new service would allow developers to create their own chatbots that can interact in a conversational manner, similar to Alexa. Along with the connection to various Amazon services, the initial version will provide connectivity to Facebook Messenger, with Slack and Twilio integration to follow.[34][35]
+
+Reception[edit]
+There are concerns about the access Amazon has to private conversations in the home and other non-verbal indications that can identify who is present in the home with non-stop audio pick-up from Alexa-enabled devices.[36][37] Amazon responds to these concerns by stating that the devices only stream recordings from the user's home when the 'wake word' activates the device. The device is technically capable of streaming voice recordings at all times, and in fact will always be listening to detect if a user has uttered the wake word.
+
+Amazon uses past voice recordings sent to the cloud service to improve response to future questions the user may pose. To address privacy concerns, the user can delete voice recordings that are currently associated with the user's account, but doing so may degrade the user's experience using search functions. To delete these recordings, the user can visit the Manage My Device page on Amazon.com or contact Amazon customer service.
+
+Alexa uses an address stored in the companion app when it needs a location.[38] Amazon and third-party apps and websites use location information to provide location-based services and store information to provide voice services, the Maps app, Find Your Device, and to monitor the performance and accuracy of location services. For example, Echo voice services use the user's location to respond to the user's requests for nearby restaurants or stores. Similarly, Alexa uses the user's location to process the user's mapping-related requests and improve the Maps experience. All information collected is subject to the Amazon.com Privacy Notice.[39]
+
+Amazon retains digital recordings of users' audio spoken after the "wake word," and while the audio recordings are subject to demands by law enforcement, government agents, and other entities via subpoena, Amazon publishes some information about the warrants it receives, the subpoenas it receives, and some of the warrant-less demands it receives, allowing customers some indication as to the percentage of illegal demands for customer information it receives.[40]
+
+Supported Devices[edit]
